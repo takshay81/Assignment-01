@@ -3,7 +3,7 @@
 A single-page HTML demo built for TuteDude, showcasing semantic HTML5 structure — header, nav, main sections (About, Menu, Trivia, Extras), nested tables, forms, media embeds, and a footer.
 
 ## 🔗 Live Demo
-[View Deployed Site](#) <!-- replace # with your Netlify/Render/GitHub Pages link -->
+[View Deployed Site](https://assignments011.netlify.app/) <!-- replace # with your Netlify/Render/GitHub Pages link -->
 
 ## 🛠️ Built With
 - HTML5 (semantic elements: `header`, `nav`, `main`, `section`, `article`, `aside`, `figure`, `footer`, `address`, `details`)
